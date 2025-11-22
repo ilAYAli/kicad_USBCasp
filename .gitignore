@@ -1,0 +1,9 @@
+*backups/
+production/
+firmware/
+*Conflicted*
+.DS_Store
+fp-lib-table
+fp-info-cache
+sym-lib-table
+*.lck

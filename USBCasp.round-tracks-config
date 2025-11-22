@@ -1,0 +1,8 @@
+Default	True	2.0	3
+5V	True	2.0	3
+GND	True	2.0	3
+RX	True	2.0	3
+SPI	True	2.0	3
+TX	True	2.0	3
+USB_DATA	True	2.0	3
+False	True	False

@@ -72,7 +72,7 @@ avrdude -c usbasp -p t84 -B 32 -v
 ## Repo Layout
 
 - [USBCasp.kicad_sch](USBCasp.kicad_sch) and [USBCasp.kicad_pcb](USBCasp.kicad_pcb): hardware design
-- [firmware/usbasp/firmware](firmware/usbasp/firmware): USBasp firmware source and build artifacts
+- [firmware/usbasp/firmware](https://github.com/Ser9ei/usbasp.git): USBasp firmware source and build artifacts
 - [firmware/FLASH_AND_TEST.md](firmware/FLASH_AND_TEST.md): extra flashing and bring-up notes
 
 
